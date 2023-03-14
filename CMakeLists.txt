@@ -6,7 +6,7 @@ project(Assignment3)
 #-------------------------------------------------------------------------------
 option(BUILD_DEBUG     "Build with debug settings"    OFF)
 option(BUILD_DOCS      "Build documentation"          OFF)
-option(BUILD_CUSTOM    "Build without reference"      ON)
+option(BUILD_CUSTOM    "Build without reference"      OFF)
 option(GEN_BINARIES    "Generate 3-1 binaries"        OFF)
 
 
