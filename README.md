@@ -91,16 +91,17 @@ l=16</td>
 
 ### Diffuse
 
+<table style="width:100%">
+<tr><img src="imgs/CBspheres_diff.png"></tr>
+</table>
 
 ### Mirror & Glass
 
 
 <table style="width:100%">
-<tr>
-<td><img src="imgs/CBcoil.png"></td>
-<td><img src="imgs/CBspheres_m_32.png"></td>
-<td><img src="imgs/CBlucy_2048-64-16.png"></td>
-</tr>
+<tr><td><img src="imgs/CBcoil.png"></td></tr>
+<tr><td><img src="imgs/CBspheres_m_32.png"></td></tr>
+<tr><td><img src="imgs/CBlucy_2048-64-16.png"></td></tr>
 </table>
 
 ### Microfacet
